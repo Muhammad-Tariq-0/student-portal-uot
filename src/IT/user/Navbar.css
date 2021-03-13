@@ -1,0 +1,21 @@
+.top-nav{
+  box-shadow: 0 4px 8px 0 rgba(53, 80, 168, 0.2);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #ffff;
+}
+li{
+  display: block;
+  color: #2a587d;
+  text-align: center;
+  text-decoration: none;
+}
+.user{
+  float: right;
+  margin-top: -70px;
+  margin-right: 20px;
+}
